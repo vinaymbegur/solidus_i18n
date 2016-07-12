@@ -266,11 +266,11 @@ en-IN:
         one: Tax Rate
         other: Tax Rates
       spree/taxon:
-        one: Taxon
+        one: Catalog
         other: Taxons
       spree/taxonomy:
-        one: Taxonomy
-        other: Taxonomies
+        one: Category
+        other: Categories
       spree/tracker:
       spree/user:
         one: User
@@ -1243,7 +1243,7 @@ en-IN:
     tax_included:
     tax_rate_amount_explanation: Tax rates are a decimal amount to aid in calculations, (i.e. if the tax rate is 5% then enter 0.05)
     tax_rates: Tax Rates
-    taxon: Taxon
+    taxon: Catalog
     taxon_edit: Edit Taxon
     taxon_placeholder: Add a Taxon
     taxon_rule:
@@ -1251,7 +1251,7 @@ en-IN:
       label:
       match_all:
       match_any:
-    taxonomies: Taxonomies
+    taxonomies: Categories
     taxonomy: Taxonomy
     taxonomy_edit: Edit taxonomy
     taxonomy_tree_error: The requested change has not been accepted and the tree has been returned to its previous state, please try again.
