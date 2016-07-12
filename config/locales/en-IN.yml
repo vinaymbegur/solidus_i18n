@@ -267,7 +267,7 @@ en-IN:
         other: Tax Rates
       spree/taxon:
         one: Catalog
-        other: Taxons
+        other: Catalogs
       spree/taxonomy:
         one: Category
         other: Categories
@@ -364,6 +364,7 @@ en-IN:
     add_state: Add State
     add_stock: Add Stock
     add_stock_management: Add Stock Management
+    add_taxon: Add Catalog
     add_to_cart: Add To Basket
     add_variant: Add Variant
     additional_item: Additional Item Cost
@@ -388,8 +389,8 @@ en-IN:
         properties:
         prototypes:
         reports:
-        taxonomies:
-        taxons:
+        taxonomies: Categories
+        taxons: Catalog
         users:
       user:
         account:
@@ -443,6 +444,7 @@ en-IN:
     back_to_resource_list:
     back_to_rma_reason_list:
     back_to_store: Go Back To Store
+    back_to_taxonomies_list: Back To Categories List
     back_to_users_list: Back To Users List
     backorderable: Backorderable
     backorderable_default:
@@ -799,8 +801,8 @@ en-IN:
     new_stock_transfer: New Stock Transfer
     new_tax_category: New Tax Category
     new_tax_rate: New Tax Rate
-    new_taxon: New Taxon
-    new_taxonomy: New Taxonomy
+    new_taxon: New Catalog
+    new_taxonomy: New Category
     new_tracker: New Tracker
     new_user: New User
     new_variant: New Variant
@@ -1244,19 +1246,19 @@ en-IN:
     tax_rate_amount_explanation: Tax rates are a decimal amount to aid in calculations, (i.e. if the tax rate is 5% then enter 0.05)
     tax_rates: Tax Rates
     taxon: Catalog
-    taxon_edit: Edit Taxon
-    taxon_placeholder: Add a Taxon
+    taxon_edit: Edit Catalog
+    taxon_placeholder: Add a Catalog
     taxon_rule:
       choose_taxons:
       label:
       match_all:
       match_any:
     taxonomies: Categories
-    taxonomy: Taxonomy
-    taxonomy_edit: Edit taxonomy
+    taxonomy: Category
+    taxonomy_edit: Edit Category
     taxonomy_tree_error: The requested change has not been accepted and the tree has been returned to its previous state, please try again.
     taxonomy_tree_instruction: "* Right click a child in the tree to access the menu for adding, deleting or sorting a child."
-    taxons: Taxons
+    taxons: Catalogs
     test: Test
     test_mailer:
       test_email:
